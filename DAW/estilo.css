@@ -1,0 +1,32 @@
+@font-face{
+	font-family: Marseline;
+	src:url(../fonts/Marseline.ttf);
+
+}
+h1{
+	font-family: Marseline;
+	color:white;
+	font-size: 66px;
+}
+header{
+	background-color:#7FFFD4;
+	padding: 25px;
+	font-size: 25px;
+	font-family: Century Gothic;
+	text-align: center;
+}
+h2{
+
+	font-family: Marseline;
+	color:black;
+	font-size: 30px;
+
+}
+.imagen{
+text-align: center;L
+}
+footer{
+	background-color:#7FFFD4;
+	text-align: center;
+	padding: 20px;
+}

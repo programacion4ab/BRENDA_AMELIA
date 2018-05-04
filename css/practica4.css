@@ -1,0 +1,33 @@
+li {
+	background-color: #E4EDDB;
+	text-align: center;
+	margin: 60px;
+    list-style-type: none;
+    text-decoration: none;
+}
+li a{
+	text-decoration:none;
+}
+body{
+	background-image: url(../img/fondoo.jpg);
+	margin: 60px;
+}
+.imagen{
+	background-color: #F8B595;
+	text-align: center;
+	margin: 60px;
+	list-style-type: none;
+	overflow: hidden;
+	display: block;
+	text-decoration: none;
+}
+.nombre{
+	text-align: center;
+	font-size: 45px;
+}
+article{
+	background-color: #E4EDDB;
+	margin: 60px;
+}
+
+

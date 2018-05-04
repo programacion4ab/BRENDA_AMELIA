@@ -1,0 +1,32 @@
+header{
+	font: cursive;
+	background-color:#FA8072;
+padding: 50px;
+text-align: center;
+
+
+}
+footer{
+
+	text-align: left;
+	background-image:url(../img/footer.jpg);
+	padding: 60px;
+	font-size: 25px;
+
+}
+article{
+	margin-right: 
+	padding: 20px;
+	padding-bottom: 90px;
+    text-align: justify;
+    font-size: 20px;
+}
+.imagen1{
+	float: left;
+	padding: 20px;
+	padding-bottom: 30px;
+	margin-right: 25px;
+}
+
+
+
